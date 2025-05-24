@@ -4,7 +4,7 @@ This project is a modular, reinforcement learning (RL)-powered trading system de
 🚀 Key Features
 Reinforcement Learning Core: Utilizes the Proximal Policy Optimization (PPO) algorithm from Stable Baselines3 to learn trading strategies.
 
-Multi-Symbol, Multi-Interval Support: Easily train agents on different combinations of coins (e.g., BTC, ETH) and intervals (e.g., 5m, 1h).
+Multi-Symbol, Multi-Interval Support: Easily train agents on different combinations of coins (e.g., BTC, ETH) and intervals (e.g., 5m, 4h).
 
 Custom Trading Environment: A Gym-compatible environment tailored for spot trading, supporting discrete actions (buy, sell, hold) and enriched with technical indicators (RSI, MACD, Bollinger Bands, etc.).
 
